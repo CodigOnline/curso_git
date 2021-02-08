@@ -12,4 +12,7 @@ public class Calculadora {
 	public int mult(int num1, int mul) {
 		return num1 * mul;
 	}
+	public float div(int num1,int divisor){
+		return num1/divisor;
+	}
 }
